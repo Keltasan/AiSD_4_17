@@ -1,0 +1,6 @@
+C:/Users/Keltasar/CLionProjects/AiSD_4_17/cmake-build-debug/CMakeFiles/lab1.dir
+C:/Users/Keltasar/CLionProjects/AiSD_4_17/cmake-build-debug/CMakeFiles/lab2.dir
+C:/Users/Keltasar/CLionProjects/AiSD_4_17/cmake-build-debug/CMakeFiles/lab3.dir
+C:/Users/Keltasar/CLionProjects/AiSD_4_17/cmake-build-debug/CMakeFiles/lab4.dir
+C:/Users/Keltasar/CLionProjects/AiSD_4_17/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Keltasar/CLionProjects/AiSD_4_17/cmake-build-debug/CMakeFiles/rebuild_cache.dir
